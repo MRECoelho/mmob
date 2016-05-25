@@ -1,2 +1,12 @@
 # mmob
-a context realted language learning app 
+
+=============
+This repo holds a context related language learning app .
+
+Creators:
+Tom Oerlemans
+Migue Coelho
+Justin
+Erik
+Thomas
+Wessel
